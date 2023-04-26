@@ -2,7 +2,9 @@
 ### Tópicos 
 
 :small_blue_diamond: [Descrição](#descrição)
+
 :small_blue_diamond: [Aplicativos escolhidos](#aplicativos-escolhidos)
+
 :small_blue_diamond: [Semelhanças e Diferenças](#semelhanças-e-diferenças)
 
 ## Descrição 
