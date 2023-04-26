@@ -17,18 +17,20 @@
 
 ## Aplicativos escolhidos
 <p align="justify"> 
-	Aqui nesta parte irá ter uma lista com o nome dos três app's que foram selecionados e ao clicar nele irá ser redirecionado as fotos deste aplicativo
+	Aqui nesta parte irá ter uma lista com o nome dos três app's que foram selecionados e descrevendo a função de cada um. Irão ter imagens disponibilizadas no repositório para que haja uma vizualização de forma mais clara dos aplicativos.
 </p>
 
-:small_blue_diamond: [Sneaker Wallpaper]
+:small_blue_diamond: Sneaker Wallpaper: Tem como objetivo disponibilizar imagens de tênis de estilo "streetwear" unicamente para parede de celulares.
 
-:small_blue_diamond: [Manga Wallpaper]
+:small_blue_diamond: Manga Wallpaper: Tem como objetivo disponibilizar imagens de quadrinhos tipicamente japoneses e animes para utilização como tela de fundo de celulares, tablets e PC's.
 
-:small_blue_diamond: [Animes Wallpapers]
+:small_blue_diamond: Anime Wallpapers: Tem como objetivo disponibilizar imagens somente de animes unicamente para parede de fundo para celulares.
 
 ## Semelhanças e diferenças
 
 ### Semelhanças
+
+:heavy_check_mark: Na parte superoir dos aplicativos há informando em qual janela o usuário está, e caso esteja no menu principal, somente em dois app's(Sneaker Wallpaper e Manga Wallpaper) que aparece somente o nome da aplicação.
 
 :heavy_check_mark: Na parte inferior dos três aplicativos, há a separação de categorias e favoritos. 
 
@@ -38,4 +40,6 @@
 
 ❗ O Sneaker Wallpaper não possui uma barra de pesquisa e é dividido em blocos com imagens diferentes e sem muitas coisas em comum. 
 
-❗ Já o Manga Wallpaper tem uma separação em tópicos no topo para a apresentação de diferentes conteúdos, de acordo com as preferências do usuário. A pesquisa é representada por uma lupa que, ao ser clicada, se expande para mostrar a barra de pesquisa. Além disso, o conteúdo é separado por tipo de imagem (manga, anime ou edit) e dividido por obras.
+❗ O anga Wallpaper tem uma separação em tópicos no topo para a apresentação de diferentes conteúdos, de acordo com as preferências do usuário. A pesquisa é representada por uma lupa que, ao ser clicada, se expande para mostrar a barra de pesquisa. Além disso, o conteúdo é separado por tipo de imagem (manga, anime ou edit) e dividido por obras.
+
+❗ Já o Anime Wallpapers tem uma estrutura semelhante ao Manga Wallpaper, com a diferença sendo a barra de pesquisa e todas as imagens sendo separadas por somente a obra(série).
