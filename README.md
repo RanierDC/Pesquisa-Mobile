@@ -9,7 +9,7 @@
 
 ## Descrição 
 <p align="justify"> 
-	Neste trabalho de pesquisa orientado pela professora Aline, foram escolhidos três aplicativos da categoria de "papel de parede". Isso ocorre porque a principal forma de personalizar um aparelho celular é através do papel de parede, seja na tela de bloqueio ou tela inicial. Embora pareça uma tarefa simples, muitas vezes, a maioria das fotos não estão adaptadas ao formato de tela do aparelho. É aí que entram esses aplicativos, que facilitam a personalização do dispositivo.
+	Neste trabalho de pesquisa orientado pela professora Aline, os alunos Ranier Dalton e Lucas Barreto, escolhemos três aplicativos da categoria de "papel de parede". Isso ocorre porque a principal forma de personalizar um aparelho celular é através do papel de parede, seja na tela de bloqueio ou tela inicial. Embora pareça uma tarefa simples, muitas vezes, a maioria das fotos não estão adaptadas ao formato de tela do aparelho. É aí que entram esses aplicativos, que facilitam a personalização do dispositivo.
 </p>
 <p align="justify"> 
 	Dessa forma, o principal conteúdo desses aplicativos são imagens estáticas ou animadas que podem ser redimensionadas para o formato de tela do dispositivo móvel do usuário. Na maioria dos aplicativos desse tipo, os conteúdos estão organizados em blocos de acordo com temas, personagens e cores que se encaixam nessas imagens. Desse modo, o usuário pode personalizar o aparelho de acordo com seus gostos de maneira mais fácil.
@@ -17,14 +17,14 @@
 
 ## Aplicativos escolhidos
 <p align="justify"> 
-	Aqui nesta parte irá ter uma lista com o nome dos três app's que foram selecionados e descrevendo a função de cada um. Irão ter imagens disponibilizadas no repositório para que haja uma vizualização de forma mais clara dos aplicativos.
+	Aqui nesta parte irá ter uma lista com o nome dos três app's que foram selecionados e descrevendo um pouco sobre cada um. Irão ter imagens disponibilizadas no repositório para que haja uma vizualização de forma mais clara dos aplicativos.
 </p>
 
-:small_blue_diamond: Sneaker Wallpaper: Tem como objetivo disponibilizar imagens de tênis de estilo "streetwear" unicamente para parede de celulares.
+:small_blue_diamond: Sneaker Wallpaper: Tem como objetivo disponibilizar imagens de tênis de estilo "streetwear" unicamente para parede de celulares. Funciona em sua forma plena quando está offline.
 
-:small_blue_diamond: Manga Wallpaper: Tem como objetivo disponibilizar imagens de quadrinhos tipicamente japoneses e animes para utilização como tela de fundo de celulares, tablets e PC's.
+:small_blue_diamond: Manga Wallpaper: Tem como objetivo disponibilizar imagens de quadrinhos tipicamente japoneses e animes para utilização como tela de fundo de celulares, tablets e PC's. Funciona em sua forma plena quando está offline. 
 
-:small_blue_diamond: Anime Wallpapers: Tem como objetivo disponibilizar imagens somente de animes unicamente para parede de fundo para celulares.
+:small_blue_diamond: Anime Wallpapers: Tem como objetivo disponibilizar imagens somente de animes unicamente para parede de fundo para celulares. Funciona em sua forma plena quando está offline. Ao estar offline e entrar nele, fica na tela de carregamento do aplicativo durante um bom tempo e após esse período, há a utilização da tela principal sem o cabeçalho com uma mensagem informando a desconexão com um botão de recarregamento.
 
 ## Semelhanças e diferenças
 
