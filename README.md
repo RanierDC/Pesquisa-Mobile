@@ -10,7 +10,8 @@
 ## Descrição 
 <p align="justify"> 
 	Neste trabalho de pesquisa orientado pela professora Aline, foram escolhidos três aplicativos da categoria de "papel de parede". Isso ocorre porque a principal forma de personalizar um aparelho celular é através do papel de parede, seja na tela de bloqueio ou tela inicial. Embora pareça uma tarefa simples, muitas vezes, a maioria das fotos não estão adaptadas ao formato de tela do aparelho. É aí que entram esses aplicativos, que facilitam a personalização do dispositivo.
-	
+</p>
+<p align="justify"> 
 	Dessa forma, o principal conteúdo desses aplicativos são imagens estáticas ou animadas que podem ser redimensionadas para o formato de tela do dispositivo móvel do usuário. Na maioria dos aplicativos desse tipo, os conteúdos estão organizados em blocos de acordo com temas, personagens e cores que se encaixam nessas imagens. Desse modo, o usuário pode personalizar o aparelho de acordo com seus gostos de maneira mais fácil.
 </p>
 
