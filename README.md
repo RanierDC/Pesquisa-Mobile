@@ -7,6 +7,8 @@
 
 :small_blue_diamond: [Semelhanças e Diferenças](#semelhanças-e-diferenças)
 
+:small_blue_diamond: [Elementos](#elementos)
+
 ## Descrição 
 <p align="justify"> 
 	Neste trabalho de pesquisa orientado pela professora Aline, os alunos Ranier Dalton e Lucas Barreto, escolhemos três aplicativos da categoria de "papel de parede". Isso ocorre porque a principal forma de personalizar um aparelho celular é através do papel de parede, seja na tela de bloqueio ou tela inicial. Embora pareça uma tarefa simples, muitas vezes, a maioria das fotos não estão adaptadas ao formato de tela do aparelho. É aí que entram esses aplicativos, que facilitam a personalização do dispositivo.
