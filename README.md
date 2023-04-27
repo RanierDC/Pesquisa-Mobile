@@ -29,7 +29,7 @@
 :small_blue_diamond: **Anime Wallpapers:** Tem como objetivo disponibilizar imagens somente de animes unicamente para parede de fundo para celulares. Funciona em sua forma plena quando está offline. Ao estar offline e entrar nele, fica na tela de carregamento do aplicativo durante um bom tempo e após esse período, há a utilização da tela principal sem o cabeçalho com uma mensagem informando a desconexão com um botão de recarregamento.
 
 <p align="center">
-	 <img src="https://user-images.githubusercontent.com/101645521/235011258-4c7217ff-7b15-48a3-a29e-38faf88cf518.jpg" width=70%/>
+	 <img src="https://user-images.githubusercontent.com/101645521/235011258-4c7217ff-7b15-48a3-a29e-38faf88cf518.jpg" width=65%/>
 </p>
 
 ## Semelhanças e diferenças
