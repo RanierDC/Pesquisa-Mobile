@@ -43,3 +43,17 @@
 ❗ O anga Wallpaper tem uma separação em tópicos no topo para a apresentação de diferentes conteúdos, de acordo com as preferências do usuário. A pesquisa é representada por uma lupa que, ao ser clicada, se expande para mostrar a barra de pesquisa. Além disso, o conteúdo é separado por tipo de imagem (manga, anime ou edit) e dividido por obras.
 
 ❗ Já o Anime Wallpapers tem uma estrutura semelhante ao Manga Wallpaper, com a diferença sendo a barra de pesquisa e todas as imagens sendo separadas por somente a obra(série).
+
+## Elementos
+🟥 TextView: O TextView é um elemento fundamental e muito utilizado na criação de interfaces de usuário em aplicativos Android. Ele é responsável por exibir textos estáticos ou dinâmicos na tela do aplicativo, podendo ser utilizado de forma independente ou em conjunto com outros elementos de interface.
+
+🟧 ImageView: O ImageView é um elemento de interface do usuário no Android Studio usado para exibir imagens estáticas ou dinâmicas em um aplicativo. Ele permite que o desenvolvedor exiba imagens de diferentes formatos e tamanhos em uma variedade de contextos. Esse recurso também oferece suporte a várias propriedades e métodos para personalização, como escala de imagem, recorte e animação.
+
+🟨 Toolbar: A Toolbar é um recurso essencial para adicionar uma barra de ação ou de ferramentas em um aplicativo no Android Studio. Ela permite que desenvolvedores personalizem a aparência e o comportamento da barra de ação, incluindo a cor de fundo, a presença de botões de ação, o título do aplicativo e o ícone de navegação.
+
+🟩 BottomAppBar: Assim como o Toolbar, o BottomAppBar oferece várias opções de personalização, como a adição de botões de ação, o controle de transições entre telas, a configuração de menus e a personalização de cores e estilos. No 
+
+🟦 Button: O Button é um elemento de interface do usuário que permite aos desenvolvedores adicionar botões clicáveis em seus aplicativos Android. Ele é utilizado para executar ações ou eventos ao ser pressionado pelo usuário. Além disso, o Button também pode ser personalizado com diferentes cores, estilos e tamanhos para se adequar à aparência do aplicativo.
+
+🟪 Icon: O Icon é um recurso de interface gráfica utilizado no desenvolvimento de aplicativos Android para representar visualmente uma ação, objeto ou ideia. Os ícones são geralmente pequenos e são exibidos em vários locais na interface do usuário, como na barra de ferramentas.
+ 
