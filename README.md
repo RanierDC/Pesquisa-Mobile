@@ -22,14 +22,14 @@
 	Aqui nesta parte irá ter uma lista com o nome dos três app's que foram selecionados e descrevendo um pouco sobre cada um. Irão ter imagens disponibilizadas no repositório para que haja uma vizualização de forma mais clara dos aplicativos.
 </p>
 
-:small_blue_diamond: **Sneaker Wallpaper:** Tem como objetivo disponibilizar imagens de tênis de estilo "streetwear" unicamente para parede de celulares. Funciona em sua forma plena quando está offline.
-
 :small_blue_diamond: **Manga Wallpaper:** Tem como objetivo disponibilizar imagens de quadrinhos tipicamente japoneses e animes para utilização como tela de fundo de celulares, tablets e PC's. Funciona em sua forma plena quando está offline. 
+
+:small_blue_diamond: **Sneaker Wallpaper:** Tem como objetivo disponibilizar imagens de tênis de estilo "streetwear" unicamente para parede de celulares. Funciona em sua forma plena quando está offline.
 
 :small_blue_diamond: **Anime Wallpapers:** Tem como objetivo disponibilizar imagens somente de animes unicamente para parede de fundo para celulares. Funciona em sua forma plena quando está offline. Ao estar offline e entrar nele, fica na tela de carregamento do aplicativo durante um bom tempo e após esse período, há a utilização da tela principal sem o cabeçalho com uma mensagem informando a desconexão com um botão de recarregamento.
 
 <p align="center">
-	 <img src="https://user-images.githubusercontent.com/101645521/235011258-4c7217ff-7b15-48a3-a29e-38faf88cf518.jpg"/>
+	 <img src="https://user-images.githubusercontent.com/101645521/235011258-4c7217ff-7b15-48a3-a29e-38faf88cf518.jpg" width=70%/>
 </p>
 
 ## Semelhanças e diferenças
