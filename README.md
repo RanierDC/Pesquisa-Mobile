@@ -65,12 +65,12 @@
 
 ### **Manga Wallpaper**
 <p align="center">
-	 <img src="https://user-images.githubusercontent.com/101645521/235029296-0c5b6c92-3c51-42f8-81c9-70c39734318b.png" width=65%/>
+	 <img src="https://user-images.githubusercontent.com/101645521/235029725-3d581fef-7114-4f61-aee7-c8436d4f28b0.png" width=65%/>
 </p>
 
 ### **Sneaker Wallpaper**
 <p align="center">
-	 <img src="https://user-images.githubusercontent.com/101645521/235029400-3614f0f1-0c74-47be-b2a5-a454ff25a6d3.png" width=65%/>
+	 <img src="https://user-images.githubusercontent.com/101645521/235029775-6328f26a-adb7-49ae-9170-605c542c8f5e.png" width=65%/>
 </p>
 
 ### **Anime Wallpaper**
