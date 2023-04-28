@@ -19,7 +19,7 @@
 
 ## Aplicativos escolhidos
 <p align="justify"> 
-	Aqui nesta parte irá ter uma lista com o nome dos três app's que foram selecionados e descrevendo um pouco sobre cada um. Irão ter imagens disponibilizadas no repositório para que haja uma vizualização de forma mais clara dos aplicativos.
+	Aqui nesta parte irá ter uma lista com o nome dos três app's que foram selecionados e descrevendo um pouco sobre cada um. Irão ter imagens para vizualização mais ao final do projeto.
 </p>
 
 :small_blue_diamond: **Manga Wallpaper:** Tem como objetivo disponibilizar imagens de quadrinhos tipicamente japoneses e animes para utilização como tela de fundo de celulares, tablets e PC's. Funciona em sua forma plena quando está offline. 
@@ -49,6 +49,8 @@
 ❗ O Manga Wallpaper tem uma separação em tópicos no topo para a apresentação de diferentes conteúdos, de acordo com as preferências do usuário. A pesquisa é representada por uma lupa que, ao ser clicada, se expande para mostrar a barra de pesquisa. Além disso, o conteúdo é separado por tipo de imagem (manga, anime ou edit) e dividido por obras.
 
 ❗ Já o Anime Wallpapers tem uma estrutura semelhante ao Manga Wallpaper, com a diferença sendo a barra de pesquisa e todas as imagens sendo separadas por somente a obra(série).
+
+❗ Nos três aplicativos temos certas diferenças em relação a opções da utilização e compartilhamento da imagem, informações da imagem (tamanho, qualidade e etc) e favoritagem delas.
 
 ## Elementos
 🟥 **TextView:** O TextView é um elemento fundamental e muito utilizado na criação de interfaces de usuário em aplicativos Android. Ele é responsável por exibir textos estáticos ou dinâmicos na tela do aplicativo, podendo ser utilizado de forma independente ou em conjunto com outros elementos de interface.
