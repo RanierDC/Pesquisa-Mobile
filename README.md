@@ -63,17 +63,17 @@
 
 🟪 **Icon:** O Icon é um recurso de interface gráfica utilizado no desenvolvimento de aplicativos Android para representar visualmente uma ação, objeto ou ideia. Os ícones são geralmente pequenos e são exibidos em vários locais na interface do usuário, como na barra de ferramentas.
 
-### **Manga Wallpaper**
+### <p align="center"> **Manga Wallpaper** </p>
 <p align="center">
-	 <img src="https://user-images.githubusercontent.com/101645521/235029725-3d581fef-7114-4f61-aee7-c8436d4f28b0.png" width=65%/>
+	 <img src="https://user-images.githubusercontent.com/101645521/235029725-3d581fef-7114-4f61-aee7-c8436d4f28b0.png"/>
 </p>
 
-### **Sneaker Wallpaper**
+### <p align="center"> **Sneaker Wallpaper** </p>
 <p align="center">
-	 <img src="https://user-images.githubusercontent.com/101645521/235029775-6328f26a-adb7-49ae-9170-605c542c8f5e.png" width=65%/>
+	 <img src="https://user-images.githubusercontent.com/101645521/235029775-6328f26a-adb7-49ae-9170-605c542c8f5e.png">
 </p>
 
-### **Anime Wallpaper**
+### <p align="center"> **Anime Wallpaper** </p>
 <p align="center">
-	 <img src="https://user-images.githubusercontent.com/101645521/235029452-60c83c6c-c743-4071-8075-80ff9451665a.png" width=65%/>
+	 <img src="https://user-images.githubusercontent.com/101645521/235029994-94cf40e8-6b28-4828-83bc-e289afa958ee.png">
 </p>
