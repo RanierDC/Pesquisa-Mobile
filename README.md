@@ -43,6 +43,8 @@
 
 :heavy_check_mark: No centro da tela, temos a divisão de um conjunto de papéis de parede por blocos.
 
+:heavy_check_mark: Em todos, após clicar na imagem desejada, aparece uma tela com a imagem selecionada de fundo e opções como salvamento e compartilhamento das imagens.
+
 ### Diferenças
 
 ❗ O Sneaker Wallpaper não possui uma barra de pesquisa e é dividido em blocos com imagens diferentes e sem muitas coisas em comum. 
