@@ -1,5 +1,5 @@
 # **PROJETO DE PESQUISA MOBILE**
-## Alunos: <h3> Lucas Barreto e Ranier Dalton </h3>
+## Alunos: Lucas Barreto e Ranier Dalton 
 ### Tópicos 
 
 :small_blue_diamond: [Descrição](#descrição)
