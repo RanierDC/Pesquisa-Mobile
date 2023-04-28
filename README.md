@@ -46,7 +46,7 @@
 
 ❗ O Sneaker Wallpaper não possui uma barra de pesquisa e é dividido em blocos com imagens diferentes e sem muitas coisas em comum. 
 
-❗ O anga Wallpaper tem uma separação em tópicos no topo para a apresentação de diferentes conteúdos, de acordo com as preferências do usuário. A pesquisa é representada por uma lupa que, ao ser clicada, se expande para mostrar a barra de pesquisa. Além disso, o conteúdo é separado por tipo de imagem (manga, anime ou edit) e dividido por obras.
+❗ O Manga Wallpaper tem uma separação em tópicos no topo para a apresentação de diferentes conteúdos, de acordo com as preferências do usuário. A pesquisa é representada por uma lupa que, ao ser clicada, se expande para mostrar a barra de pesquisa. Além disso, o conteúdo é separado por tipo de imagem (manga, anime ou edit) e dividido por obras.
 
 ❗ Já o Anime Wallpapers tem uma estrutura semelhante ao Manga Wallpaper, com a diferença sendo a barra de pesquisa e todas as imagens sendo separadas por somente a obra(série).
 
@@ -62,4 +62,18 @@
 🟦 **Button:** O Button é um elemento de interface do usuário que permite aos desenvolvedores adicionar botões clicáveis em seus aplicativos Android. Ele é utilizado para executar ações ou eventos ao ser pressionado pelo usuário. Além disso, o Button também pode ser personalizado com diferentes cores, estilos e tamanhos para se adequar à aparência do aplicativo.
 
 🟪 **Icon:** O Icon é um recurso de interface gráfica utilizado no desenvolvimento de aplicativos Android para representar visualmente uma ação, objeto ou ideia. Os ícones são geralmente pequenos e são exibidos em vários locais na interface do usuário, como na barra de ferramentas.
- 
+
+### **Manga Wallpaper**
+<p align="center">
+	 <img src="https://user-images.githubusercontent.com/101645521/235029296-0c5b6c92-3c51-42f8-81c9-70c39734318b.png" width=65%/>
+</p>
+
+### **Sneaker Wallpaper**
+<p align="center">
+	 <img src="https://user-images.githubusercontent.com/101645521/235029400-3614f0f1-0c74-47be-b2a5-a454ff25a6d3.png" width=65%/>
+</p>
+
+### **Anime Wallpaper**
+<p align="center">
+	 <img src="https://user-images.githubusercontent.com/101645521/235029452-60c83c6c-c743-4071-8075-80ff9451665a.png" width=65%/>
+</p>
